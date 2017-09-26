@@ -1,0 +1,103 @@
+body {
+    background-color:#2e3e4f;
+    height: 100%;
+    width: 100%;
+}
+nav {
+    background-color: white;
+}
+
+a {
+    float: right;
+    display: block;
+    color: #F79501;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: "Dejavu Sans";
+}
+
+
+a:hover {
+    background-color: white;
+    color: black;
+}
+a:link,a:visited
+{
+    display:inline-block;
+    margin-right: -4px;
+    width:120px;
+    font-weight:bold;
+    text-align:center;
+    padding:4px;
+    text-decoration:none;
+    text-transform:uppercase;
+}
+
+.first {
+     background-image: url("https://s3.envato.com/files/175313099/primage.jpg");
+    text-align: center;
+    font-family: "Dejavu Sans";
+    color: #F79501;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.second{
+     background-image: url("https://i1.wp.com/www.justgrinbaby.com/wp-content/uploads/2017/01/F04Bcc8.gif?resize=584%2C584");
+    text-align: center;
+    font-family: "Dejavu Sans";
+    color: #F79501;
+  background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.third{
+     background-image: url("http://33.media.tumblr.com/d629b615957dd93e460a9170b802fd28/tumblr_n9jk2qAjGS1s4fz4bo1_500.gif");
+    text-align: center;
+    font-family: "Dejavu Sans";
+    color: #F79501;
+  background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+h1{
+  text-align: center;
+  font-family: "Dejavu Sans";
+}
+
+.image {
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+
+p {
+    width: 500px;
+    text-align: center;
+    margin: 0 auto;
+    padding-bottom: 10px;
+    font-family: "Dejavu Sans";
+	  color: black;
+}
+
+
+footer {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+    font-family: "Dejavu Sans";
+}
+.small, .mail, .tel{
+  font-size: 10px; 
+  color:#F79501;
+}
+
+
